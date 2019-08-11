@@ -1,6 +1,5 @@
 <html>
     <head>
-        <encoding 추가>
         <title>
             Git 소개
         </title>
