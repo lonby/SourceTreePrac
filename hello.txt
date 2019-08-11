@@ -22,6 +22,8 @@
             <li>원격저장소</li>
             <li>Push</li>
             <li>Pull</li>
+            <li>협업</li>
+            <li>sync</li>
         </ul>
     </body>
 </html>
